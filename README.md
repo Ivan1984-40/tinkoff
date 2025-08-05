@@ -1,2 +1,0 @@
-# tinkoff
-buy-sell
